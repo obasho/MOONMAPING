@@ -1,0 +1,5 @@
+For classical image SR, real-world image SR, image
+denoising and JPEG compression artifact reduction, the
+RSTB number, STL number, window size, channel number and attention head number are generally set to 6, 6,
+8, 180 and 6, respectively
+
